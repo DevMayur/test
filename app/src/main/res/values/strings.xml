@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="type_the_title">Type the title</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">add</string>
+    <string name="select_images">select_images</string>
+    <string name="image_item">image_item</string>
+</resources>
